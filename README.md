@@ -2,9 +2,8 @@
 **Evaluación EP3 - Desarrollo FullStack I (DSY1103) - DuocUC**
 
 ## Integrantes
-- Cristóbal (GitHub: Catal2s)
-- Benjamín Martínez
-- Javier Barrera
+- Cristóbal Gonzalez
+- Javier Cataldo
 - Vicente Barrera
 
 ## Descripción
